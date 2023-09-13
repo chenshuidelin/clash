@@ -1,7 +1,13 @@
 # 必须直连的
-
+# BT
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
+
+# 学术
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,nature.com
